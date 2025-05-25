@@ -1,0 +1,10 @@
+{
+  "title": "Geolocation Tracker",
+  "current_location": "Current Location",
+  "latitude": "Latitude",
+  "longitude": "Longitude",
+  "accuracy": "Accuracy",
+  "loading": "Fetching location...",
+  "error": "Location error",
+  "you_are_here": "You are here"
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Pelacak Lokasi",
+  "current_location": "Lokasi Saat Ini",
+  "latitude": "Garis Lintang",
+  "longitude": "Garis Bujur",
+  "accuracy": "Akurasi",
+  "loading": "Mengambil lokasi...",
+  "error": "Gagal mendapatkan lokasi",
+  "you_are_here": "Kamu di sini"
+}
